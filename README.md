@@ -1,4 +1,5 @@
-CSAPP Homework / Labs Progress
+cat > README.md <<'EOF'
+# CSAPP Homework / Labs Progress
 
 ## Overall Progress
 
@@ -19,7 +20,7 @@ CSAPP Homework / Labs Progress
 # Lab0: C Programming Lab
 
 **Status:** Completed  
-**Score:** 100/100
+**Score:** 100/100  
 
 ## Output
 
@@ -100,14 +101,14 @@ CSAPP Homework / Labs Progress
 ---     trace-15-perf   7/7
 
 ---     TOTAL           100/100
-
+```
 
 ---
 
 # Lab1: Data Lab
 
-**Status:** Completed
-**Score:** 28/36
+**Status:** Completed  
+**Score:** 28/36  
 **Notes:** Problems 12 and 13 were skipped.
 
 ## Output
@@ -134,8 +135,8 @@ Gave up: 12, 13
 
 # Lab2
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
@@ -147,8 +148,8 @@ Not completed yet.
 
 # Lab3
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
@@ -160,8 +161,8 @@ Not completed yet.
 
 # Lab4
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
@@ -173,8 +174,8 @@ Not completed yet.
 
 # Lab5
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
@@ -186,8 +187,8 @@ Not completed yet.
 
 # Lab6
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
@@ -199,8 +200,8 @@ Not completed yet.
 
 # Lab7
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
@@ -212,14 +213,12 @@ Not completed yet.
 
 # Lab8
 
-**Status:** Not Completed
-**Score:** N/A
+**Status:** Not Completed  
+**Score:** N/A  
 
 ## Output
 
 ```text
 Not completed yet.
 ```
-
-```
-```
+EOF
