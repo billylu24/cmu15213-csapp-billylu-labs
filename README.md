@@ -1,6 +1,4 @@
-
-````md
-# CSAPP Homework / Labs Progress
+CSAPP Homework / Labs Progress
 
 ## Overall Progress
 
@@ -102,7 +100,7 @@
 ---     trace-15-perf   7/7
 
 ---     TOTAL           100/100
-````
+
 
 ---
 
