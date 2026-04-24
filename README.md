@@ -126,9 +126,11 @@ Score   Rating  Errors  Function
  4      4       0       logicalNeg
  4      4       0       howManyBits
  4      4       0       floatScale2
-
+ERROR: Test floatFloat2Int(0[0x0]) failed...
+...Gives 2[0x2]. Should be 0[0x0]
+ERROR: Test floatPower2(0[0x0]) failed...
+...Gives 2[0x2]. Should be 1065353216[0x3f800000]
 Total points: 28/36
-Gave up: 12, 13
 ```
 
 ---
