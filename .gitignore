@@ -1,0 +1,73 @@
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+*.iml
+cmake-build-*/
+out/
+build/
+
+# =========================
+# C / C++ build outputs
+# =========================
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+
+# =========================
+# Test / log files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+core
+
+# =========================
+# Python cache, if you use scripts
+# =========================
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# =========================
+# Conda / Jupyter, if any
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Local config / secrets
+# =========================
+.env
+*.local
+
+# Windows / WSL security metadata
+*:Zone.Identifier
+*.Zone.Identifier
+*.identifier
+*.Identifier
+*.cmd
+
+# macOS metadata
+.DS_Store
+._*
+
+traces/
